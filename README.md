@@ -1,4 +1,4 @@
- [LiteSpeed Lisansı – Hızlı ve Güvenilir Web Sunucusu Çözümü](https://www.nettescil.com.tr/kategori/litespeed-lisansi)
+ [LiteSpeed Lisansı](https://www.nettescil.com.tr/kategori/litespeed-lisansi)
 
 LiteSpeed lisansı, web sitelerinizin performansını artırmak ve daha verimli bir sunucu yönetimi sağlamak için kullanılan gelişmiş bir çözümdür. Apache'ye kıyasla daha hızlı ve kaynak tüketimi daha düşük olan LiteSpeed, özellikle yoğun trafiğe sahip siteler için idealdir.
 
